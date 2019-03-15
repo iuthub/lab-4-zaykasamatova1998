@@ -1,8 +1,5 @@
-# Lab 4: Create your Music List
+# lab-4-zaykasamatova1998.github.io
 
-You need to use given repo to create your music list.
-
-### Student Details
 
 - **Student ID**: U1710289
 - **Student Name**: Ziyoda
